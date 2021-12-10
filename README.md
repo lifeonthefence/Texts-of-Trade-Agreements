@@ -8,6 +8,7 @@ We also ran prediction to see how well the variables from the gravity dataset an
 
 ### Data sources:
 Texts of Trade Agreements: https://github.com/mappingtreaties/tota
+
 CEPII Gravity Dataset: http://www.cepii.fr/CEPII/en/bdd_modele/presentation.asp?id=8
 
 ### Authors:
